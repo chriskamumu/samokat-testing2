@@ -11,6 +11,7 @@ public class Cat {
     }
 
     public String getSound() {
+
         return "Мяу";
     }
 
